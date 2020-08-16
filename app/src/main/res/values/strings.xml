@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_activity_data">Pindah Activity Data</string>
+    <string name="data_received">Data diterima</string>
+    <string name="dial_number">Dial Number</string>
+</resources>
